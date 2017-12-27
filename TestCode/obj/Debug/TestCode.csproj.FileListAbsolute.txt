@@ -1,0 +1,13 @@
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\bin\Debug\TestCode.exe.config
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\bin\Debug\TestCode.exe
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\bin\Debug\TestCode.pdb
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\obj\Debug\TestCode.exe
+D:\Ddocuments\Visual Studio\projects\TestCode\TestCode\obj\Debug\TestCode.pdb
+D:\documentsD\TestCode\TestCode\bin\Debug\TestCode.exe.config
+D:\documentsD\TestCode\TestCode\bin\Debug\TestCode.exe
+D:\documentsD\TestCode\TestCode\bin\Debug\TestCode.pdb
+D:\documentsD\TestCode\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+D:\documentsD\TestCode\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+D:\documentsD\TestCode\TestCode\obj\Debug\TestCode.exe
+D:\documentsD\TestCode\TestCode\obj\Debug\TestCode.pdb
